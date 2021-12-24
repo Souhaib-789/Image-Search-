@@ -1,0 +1,44 @@
+.contact-form form{
+  padding: 14%;
+}
+.contact-form form .row{
+  margin-bottom: -7%;
+}
+.contact-form{
+  background: #fff;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  width: 70%;
+}
+.prime{
+  margin: 0 auto;
+}
+h1{
+  margin-left: 30% ;
+ color: rgb(65, 115, 223);
+  font-size: 50px !important;
+  font-weight: bold !important;
+}
+h1 .e{
+  color: rgb(230, 32, 32);
+}
+h1 .a{
+  color: rgb(245, 201, 8);
+}
+h1 .c{
+  color: green;
+}
+
+.form-control{
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px grey;
+
+}
+@media screen and (max-width: 480px) {
+  h1 {
+    margin-left: 5% ;
+  }
+}
+.img{
+  margin: 0 auto;
+}
